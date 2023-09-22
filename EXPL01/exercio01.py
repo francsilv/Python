@@ -9,3 +9,5 @@ x1  = ( - b  +  delta  ** ( 1  /  2 )) / ( 2  *  a )
 x2  = ( - b  -  delta  ** ( 1  /  2 )) / ( 2  *  a )
 
 imprimir ( x1 , x2 )
+  
+imprimir (x1)

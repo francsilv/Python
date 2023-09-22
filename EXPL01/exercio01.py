@@ -13,4 +13,3 @@ imprimir ( x1 , x2 )
 imprimir (x1)
 
 imprimir (x2)
-imprimir (x1,x2)

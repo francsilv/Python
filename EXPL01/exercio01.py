@@ -11,3 +11,5 @@ x2  = ( - b  -  delta  ** ( 1  /  2 )) / ( 2  *  a )
 imprimir ( x1 , x2 )
   
 imprimir (x1)
+
+imprimir (x2)

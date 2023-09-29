@@ -14,4 +14,3 @@ imprimir (x1)
 
 imprimir (x2)
 IMPRIMIR (X1,X2)
-x2 =(b)
